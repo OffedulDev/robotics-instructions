@@ -1,4 +1,4 @@
 return {
-    { Tag = "Wheel"; Controller = "WheelController" };
-    { Tag = "Cube"; Controller = "CubeController" };
+    { Tag = "Wheel"; };
+    { Tag = "Cube"; };
 }
