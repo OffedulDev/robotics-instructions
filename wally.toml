@@ -1,0 +1,10 @@
+[package]
+name = "filippo/robotic-instructions"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+knit = "sleitnick/knit@1.4.7"
+janitor = "howmanysmall/janitor@1.15.1"
+promise = "evaera/promise@4.0.0"
